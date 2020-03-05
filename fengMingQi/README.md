@@ -1,10 +1,10 @@
 
 # 1 蜂鸣器
 
-![-w641](/media/15833905111819.jpg)
+![image](https://github.com/raspberrypitools/sensor/blob/master/fengMingQi/media/15833905111819.jpg)
 
 
-![](/media/15833904960595.jpg)
+![image](https://github.com/raspberrypitools/sensor/blob/master/fengMingQi/media/15833904960595.jpg)
 
 
 ```
