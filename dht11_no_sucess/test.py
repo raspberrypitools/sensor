@@ -20,11 +20,11 @@ GPIO.output(channel, GPIO.HIGH)
  
 GPIO.setup(channel, GPIO.IN)
  
-while GPIO.input(channel) == GPIO.LOW:
-	continue
+#while GPIO.input(channel) == GPIO.LOW:
+#	continue
  
-while GPIO.input(channel) == GPIO.HIGH:
-	continue
+#while GPIO.input(channel) == GPIO.HIGH:
+#	continue
  
 while j < 40:
 	k = 0
