@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
-#*********************************************************
-#	File Name ：rgb.py	
-#	Author    ：Jason Dai
-#	Date      : 2015/02/04
-#*********************************************************
 import RPi.GPIO as GPIO
 import time
  
