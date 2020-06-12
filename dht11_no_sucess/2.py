@@ -3,7 +3,7 @@
 import RPi.GPIO as GPIO
 import time
  
-channel =13
+channel =7
 data = []
 j = 0
  

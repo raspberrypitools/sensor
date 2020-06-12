@@ -4,7 +4,7 @@
 import RPi.GPIO as GPIO
 import time
  
-channel = 11			#引脚号16
+channel = 7			#引脚号16
 data = []			#温湿度值
 j = 0				#计数器
  

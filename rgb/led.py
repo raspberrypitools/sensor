@@ -12,9 +12,9 @@ import neopixel
 from flask import Flask, jsonify
 app = Flask(__name__)
 
-ledNum = 30
+ledNum = 5
 
-pixels = neopixel.NeoPixel(board.D10, ledNum, brightness=0.5, auto_write=True, pixel_order=neopixel.GRB)
+pixels = neopixel.NeoPixel(board.D12, ledNum, brightness=0.5, auto_write=True, pixel_order=neopixel.GRB)
 rainbowRuning = False
 
 @app.route('/')
